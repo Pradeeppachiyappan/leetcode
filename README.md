@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0875-longest-mountain-in-array) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
