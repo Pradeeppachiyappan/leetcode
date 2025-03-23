@@ -4,21 +4,24 @@ class Solution {
         if(n<3){
             return 0;
         }
-        int start=0,end=0,max=0;
-        while(start<n-2){
-            while(start<n-1 && arr[start]>=arr[start+1]){
-                start++;
+        int longest=0;
+        for(int i=1;i<n-1;i++){
+            if(arr[i-1]<arr[i] && arr[i]>arr[i+1]){
+                int left=i;
+                int right=i;
+
+                while(left>0 && arr[left-1]<arr[left]){
+                    left--;
+                }
+
+                while(right<n-1 && arr[right]>arr[right+1]){
+                    right++;
+                }
+
+                longest=Math.max(longest,right-left+1);
+                i=right;
             }
-            end=start;
-            while(end<n-1 && arr[end]<arr[end+1]){
-                end++;
-            }
-            while(end<n-1 && arr[end]>arr[end+1]){
-                end++;
-                max=Math.max(max,end-start+1);
-            }
-            start=end;
         }
-        return max;
+        return longest;
     }
 }
