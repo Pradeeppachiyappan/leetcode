@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0050-powx-n) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Recursion
 |  |
 | ------- |
