@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0875-longest-mountain-in-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
