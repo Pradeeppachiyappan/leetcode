@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0069-sqrtx) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Recursion
 |  |
