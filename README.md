@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0217-contains-duplicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0875-longest-mountain-in-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
