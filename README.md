@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1656-count-good-triplets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Tree
 |  |
 | ------- |
