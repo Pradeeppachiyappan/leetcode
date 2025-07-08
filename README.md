@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-longest-mountain-in-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0917-boats-to-save-people](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0917-boats-to-save-people) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0917-boats-to-save-people](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-longest-mountain-in-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0917-boats-to-save-people](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -211,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0330-patching-array) |
+| [0917-boats-to-save-people](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
