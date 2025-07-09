@@ -1,20 +1,18 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        int ind=0;
+        PriorityQueue<Integer> queue = new PriorityQueue<>();
+
+        for(int num:nums){
+            queue.add(num);
+        }
         int miss=0;
-        while(ind!=-1){
-            if(ind==nums.length){
-                return ind;
-            }
-            if(nums[ind]==miss){
-                miss++;
-                ind++;
-            }
-            else{
+        while(!queue.isEmpty()){
+            if(miss!=queue.poll()){
                 return miss;
             }
+            miss++;
         }
-        return -1;
+
+        return miss;
     }
 }
