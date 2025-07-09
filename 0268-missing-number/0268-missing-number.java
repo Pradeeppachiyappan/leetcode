@@ -1,18 +1,12 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        PriorityQueue<Integer> queue = new PriorityQueue<>();
+        int sum=0,n=nums.length;
 
-        for(int num:nums){
-            queue.add(num);
-        }
-        int miss=0;
-        while(!queue.isEmpty()){
-            if(miss!=queue.poll()){
-                return miss;
-            }
-            miss++;
+        for(int i=0;i<n;i++){
+            sum+=i;
+            sum-=nums[i];
         }
 
-        return miss;
+        return sum+n;
     }
 }
