@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3684-substring-matching-pattern](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3684-substring-matching-pattern) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
