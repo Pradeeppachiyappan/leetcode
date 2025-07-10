@@ -1,20 +1,12 @@
 class Solution {
     public int firstUniqChar(String s) {
-        char arr[] = s.toCharArray();
-        HashMap<Character,Integer> map = new HashMap<>();
-        for(char ch : arr){
-            if(map.containsKey(ch)){
-                map.put(ch,map.get(ch)+1);
-            }
-            else{
-                map.put(ch,1);
-            }
+        int[] letter=new int[26];
+        for(int i=0;i<s.length();i++){
+            letter[s.charAt(i)-'a']++;
         }
 
-        for(int i = 0; i < s.length(); i++){
-            if(map.get(s.charAt(i)) == 1){
-                return i;
-            }
+        for(int i=0;i<s.length();i++){
+            if(letter[s.charAt(i)-'a']==1) return i;
         }
         return -1;
     }
