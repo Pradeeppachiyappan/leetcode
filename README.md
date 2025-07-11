@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0058-length-of-last-word) |
+| [0214-shortest-palindrome](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0214-shortest-palindrome) |
 | [3684-substring-matching-pattern](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Linked List
 |  |
@@ -246,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0239-sliding-window-maximum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
