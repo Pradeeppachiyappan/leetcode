@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0041-first-missing-positive) |
+| [0068-text-justification](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0214-shortest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
