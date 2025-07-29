@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0875-longest-mountain-in-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
@@ -229,12 +231,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1300-critical-connections-in-a-network](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -284,9 +288,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1300-critical-connections-in-a-network](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Biconnected Component
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
