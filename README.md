@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0389-find-the-difference](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0389-find-the-difference) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0917-boats-to-save-people](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0394-decode-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
