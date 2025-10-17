@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0217-contains-duplicate) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0268-missing-number) |
