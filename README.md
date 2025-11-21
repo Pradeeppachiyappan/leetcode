@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0389-find-the-difference) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3684-substring-matching-pattern](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Stack
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Tree
 |  |
