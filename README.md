@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0231-power-of-two) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Number Theory
 |  |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
