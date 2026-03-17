@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0118-pascals-triangle) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Search Tree
 |  |
