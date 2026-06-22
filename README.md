@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0394-decode-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
