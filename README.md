@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-longest-mountain-in-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0917-boats-to-save-people](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0917-boats-to-save-people) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0792-binary-search](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
