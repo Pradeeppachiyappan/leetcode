@@ -1,9 +1,11 @@
 class Solution {
-    public static int findGCD(int a, int b) {
-        if (b == 0) {
-            return a;
+    private static int findGCD(int a, int b) {
+        while(b != 0) {
+            int temp = a % b;
+            a = b;
+            b = temp;
         }
-        return findGCD(b, a % b);
+        return a;
     }
 
     public long gcdSum(int[] nums) {
