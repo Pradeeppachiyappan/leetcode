@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0268-missing-number) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0068-text-justification) |
+| [0179-largest-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0330-patching-array) |
 | [0917-boats-to-save-people](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0917-boats-to-save-people) |
 ## Monotonic Queue
