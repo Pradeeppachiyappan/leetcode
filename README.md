@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0917-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3536-maximum-product-of-two-digits](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0268-missing-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
