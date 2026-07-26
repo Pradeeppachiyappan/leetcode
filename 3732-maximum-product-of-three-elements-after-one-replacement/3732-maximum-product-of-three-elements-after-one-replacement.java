@@ -1,6 +1,6 @@
 class Solution {
     public long maxProduct(int[] nums) {
-        int max1=-10001,max2=-10001,min1=0,min2=0;
+        long max1=-100001,max2=-100001,min1=0,min2=0;
 
         for(int i=0;i<nums.length;i++){
             if(nums[i]>max1){
@@ -21,9 +21,9 @@ class Solution {
             }
         }
 
-        long possible1=Math.abs((long)max1*max2*100000);
-        long possible2=Math.abs((long)min1*min2*100000);
-        long possible3=Math.abs((long)max1*min1*100000);
+        long possible1=max1*max2*100000L;
+        long possible2=min1*min2*100000L;
+        long possible3=max1*min1*-100000L;
 
         long product=Math.max(possible1,Math.max(possible2,possible3));
 
