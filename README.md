@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1656-count-good-triplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
