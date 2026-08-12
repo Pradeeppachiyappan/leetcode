@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3731-find-missing-elements](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
