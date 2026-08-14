@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3684-substring-matching-pattern](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3684-substring-matching-pattern) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
