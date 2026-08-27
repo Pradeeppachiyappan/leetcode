@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0394-decode-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0551-student-attendance-record-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
