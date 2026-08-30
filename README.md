@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1656-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0330-patching-array) |
 | [0917-boats-to-save-people](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0917-boats-to-save-people) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Monotonic Queue
