@@ -21,22 +21,16 @@ class Solution {
 
         while(dummy.next!=null){
             int curr=dummy.val;
-            if(prev<curr && curr>dummy.next.val){
+            if((prev<curr && curr>dummy.next.val)|| (prev>curr && curr<dummy.next.val)){
                 prevLocal=lastLocal;
                 lastLocal=ind;
-            }
-
-            if(prev>curr && curr<dummy.next.val){
-                prevLocal=lastLocal;
-                lastLocal=ind;
+                if(prevLocal!=0 && lastLocal!=0){
+                    minDistance=Math.min(minDistance,lastLocal-prevLocal);
+                }
             }
 
             if(firstLocal==0){
                 firstLocal=lastLocal;
-            }
-
-            if(prevLocal!=0 && lastLocal!=0){
-                minDistance=Math.min(minDistance,lastLocal-prevLocal);
             }
 
             prev=dummy.val;
