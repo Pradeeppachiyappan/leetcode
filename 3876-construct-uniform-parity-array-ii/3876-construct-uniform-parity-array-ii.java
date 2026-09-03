@@ -8,8 +8,6 @@ class Solution {
 
         if(smallOdd==Integer.MAX_VALUE) return true;
 
-        System.out.println(smallOdd);
-
         for(int num:nums1){
             if(num%2==0 && num<smallOdd) return false;
         }
