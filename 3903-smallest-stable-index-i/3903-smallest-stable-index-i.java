@@ -1,17 +1,18 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        int max=0, ans=0;
-        HashMap<Integer,Integer> map=new HashMap<>();
-        int min=Integer.MAX_VALUE;
+        int len=nums.length;
+        int[] arr=new int[len];
+        int min=Integer.MAX_VALUE,max=0;
         
-        for(int i=nums.length-1;i>=0;i--){
+        for(int i=len-1;i>=0;i--){
             min=Math.min(min,nums[i]);
-            map.put(i,min);
+            arr[i]=min;
         }
         
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<len;i++){
             max=Math.max(max,nums[i]);
-            if(max-map.get(i)<=k){
+
+            if(Math.abs(max-arr[i])<=k){
                 return i;
             }
         }
