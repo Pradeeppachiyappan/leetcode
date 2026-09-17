@@ -316,12 +316,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0543-diameter-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0039-combination-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
