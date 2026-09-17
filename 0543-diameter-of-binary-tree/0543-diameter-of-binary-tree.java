@@ -22,7 +22,6 @@ class Solution {
 
         int lh=check(tptr.left);
         int rh=check(tptr.right);
-        System.out.println(lh+" "+rh);
 
         max=Math.max(max,lh+rh);
 
