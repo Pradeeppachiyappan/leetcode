@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0782-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0394-decode-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -436,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
