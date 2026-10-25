@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Pradeeppachiyappan/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Pradeeppachiyappan/leetcode/tree/master/1656-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Pradeeppachiyappan/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pradeeppachiyappan/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Math
 |  |
